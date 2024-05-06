@@ -1,18 +1,3 @@
-#tooltip.hidden {
-  display: none;
-
-  /* Add customization here  */
-}
-
-#tooltip p {
-  margin: 0;
-  font-family: Helvetica;
-  font-size: 14px;
-  line-height: 15px;
-
-  /* Add customization here  */
-}
-
 .reportTable {
   font-family: Helvetica;
   font-size: 14px;
