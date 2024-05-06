@@ -30,8 +30,7 @@
 .reportTable {
   font-family: Helvetica Neue;
   font-size: 12px;
-  border-collapse: collapse;
-  border-spacing: 3px;
+ 
 
   /* Add customization here  */
 }
@@ -82,14 +81,12 @@
 }
 
 .total {
-  border-top: 2px solid #000000 !important;
   font-weight: bold !important;
 
   /* Add customization here  */
 }
 
 .total.transposed {
-  border-top: 0px !important;
   background: #d3d3d3;
 
   /* Add customization here  */
