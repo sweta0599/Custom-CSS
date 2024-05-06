@@ -81,7 +81,7 @@
 }
 
 .total {
-  /*border-top: 1px solid #000000 !important;*/
+  border-top: 1px solid #000000 !important;
   border: 1px solid #696c80;
   font-weight: bold !important;
 
