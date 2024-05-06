@@ -43,7 +43,7 @@
   /* Add customization here  */
 }
 
-.reportTable th {
+/*.reportTable th {
   color: #000000;
  /* border: 1px solid #cccccc;
   border-bottom: 1px solid #cccccc !important;*/
@@ -52,7 +52,7 @@
   padding: 5px;
 
   /* Add customization here  */
-}
+}*/
 
 .reportTable td {
   color: #000000;
